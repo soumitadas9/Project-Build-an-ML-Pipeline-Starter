@@ -179,3 +179,10 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Project Links
+
+W&B project nyc_airbnb : https://wandb.ai/soumitahelloall-accenture/nyc_airbnb?nw=nwusersoumitahelloall
+
+Github link: https://github.com/soumitadas9/Project-Build-an-ML-Pipeline-Starter
+
